@@ -8,7 +8,7 @@ Para utilizar a aplicação, siga os passos abaixo:
 
 ```
 git clone https://github.com/seu-nome/seu-repositorio-todo.git
-
+```
 
 2. Navegue até a pasta do projeto:
 
