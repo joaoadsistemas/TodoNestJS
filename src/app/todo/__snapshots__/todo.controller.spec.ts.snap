@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoController delete should throw an exception 1`] = `""`;
+
+exports[`TodoController findAll should throw an exception 1`] = `""`;
+
+exports[`TodoController should throw an exception 1`] = `""`;
+
+exports[`TodoController update should throw an exception 1`] = `""`;
