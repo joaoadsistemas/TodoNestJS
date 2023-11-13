@@ -5,26 +5,24 @@ Um projeto em NestJS para gerenciar tarefas (TODO). Este projeto serve como exem
 Para utilizar a aplicação, siga os passos abaixo:
 
 1. Clone este repositório para o seu ambiente local:
- ```
+   ```bash
    git clone https://github.com/joaoadsistemas/TodoNestJS
-
+   ```
+   
 2. Navegue até a pasta do projeto:
-
-```
-cd seu-repositorio-todo
-
+   ```bash
+   cd seu-repositorio-todo
+   ```
 
 3. Instale as dependências:
-   
-```
-npm install
-
+   ```bash
+   npm install
+   ```
 
 4. Inicie a aplicação:
-
-```
-npm start
-
+   ```bash
+   npm start
+   ```
 
 5. Acesse a API em: http://localhost:3000/api/v1/todos
 
