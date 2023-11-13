@@ -5,21 +5,25 @@ Como Usar 🚀
 Para utilizar a aplicação, siga os passos abaixo:
 
 1. Clone este repositório para o seu ambiente local:
+
 ```
 git clone https://github.com/seu-nome/seu-repositorio-todo.git
 
 
 2. Navegue até a pasta do projeto:
+
 ```
 cd seu-repositorio-todo
 
 
 3. Instale as dependências:
+   
 ```
 npm install
 
 
 4. Inicie a aplicação:
+
 ```
 npm start
 
