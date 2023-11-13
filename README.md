@@ -1,14 +1,12 @@
-Projeto TODO em NestJS 📝
+# Projeto TODO em NestJS 📝
 Um projeto em NestJS para gerenciar tarefas (TODO). Este projeto serve como exemplo de uma API RESTful com operações básicas de CRUD (Criar, Ler, Atualizar, Deletar) para manipulação de tarefas.
 
-Como Usar 🚀
+## Como Usar 🚀
 Para utilizar a aplicação, siga os passos abaixo:
 
 1. Clone este repositório para o seu ambiente local:
-
-```
-git clone https://github.com/seu-nome/seu-repositorio-todo.git
-```
+ ```
+   git clone https://github.com/joaoadsistemas/TodoNestJS
 
 2. Navegue até a pasta do projeto:
 
