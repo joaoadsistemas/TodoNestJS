@@ -1,4 +1,4 @@
-# Projeto TODO em NestJS 📝
+# Projeto TODO API em NestJS 📝
 Um projeto em NestJS para gerenciar tarefas (TODO). Este projeto serve como exemplo de uma API RESTful com operações básicas de CRUD (Criar, Ler, Atualizar, Deletar) para manipulação de tarefas.
 
 ## Como Usar 🚀
